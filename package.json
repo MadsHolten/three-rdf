@@ -1,0 +1,16 @@
+{
+  "name": "three-rdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mads Holten Rasmussen",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "rdfstore": "^0.9.17"
+  }
+}
